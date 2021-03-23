@@ -1,0 +1,18 @@
+body {
+  background-color: GhostWhite;
+}
+h1 {
+  background-color: Red;
+  text-align: center;
+  font-family: verdana;
+  padding: 10px;
+}
+h3 {
+  color: blue;
+}
+p {
+  background-color: HotPink;
+  color: Blue;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+}
